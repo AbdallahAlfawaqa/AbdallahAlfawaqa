@@ -1,1 +1,1 @@
-Hello everyone I've always wanted to become a software engineer, even since I was a little kid. I have some past experiecne in c,c++,python, and java. Some past projects I have are creating a maze for the user to escape out of in C.
+Hello everyone I've always wanted to become a software engineer, ever since I was a little kid. I have some past experiecne in c,c++,python, and java. Some past projects I have are creating a maze for the user to escape out of in C.
